@@ -9,17 +9,17 @@
 [GENERAL]
 
 ; token - This is bot auth token, necessary to connect bot to Discord device.
-token=MTAxMjE5NTEyNTM4NjAyNzE0OQ.Gr2DQt.yZt_S6Pi9jjBdgmXHXfJQxE4uxqexbc-C6C9y4
+token=
 
 
 ; guild_name - Server's name. If you modify your server's name, the change
 ; must be done in this file too.
-guild_name=bot
+guild_name=
 
 ; channels_name - Server's channel. If you modify your channel's name, the
 ; change must be done in this file too.
 ; Example: channels_name=["Channel_1", "192_168_10_204", "Channel_2"]
-channels_name=["vps"]
+channels_name=[""]
 
 
 ; password - New users will need to use it in order to access to the service.
