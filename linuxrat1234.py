@@ -29,11 +29,13 @@ ENABLE_ROOT = False
 FORBIDDEN_COMMANDS = []       # Non working/disabled commands
 
 intents = discord.Intents.default()
+
 try:
+    intents = discord.Intents.default()
     intents.message_content = True
+    CLIENT = discord.Client(intents=intents)     # Discord client
 except:
-    intents.message = True
-CLIENT = discord.Client(intents=intents)     # Discord client
+    CLIENT = discord.Client()
 
 
 IN_GUILD = False              # Is bot running in configured server?
