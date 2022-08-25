@@ -2,7 +2,12 @@
 This is the fixed version of remoteDiscordShell (Reuired SERVER MEMBERS INTENT) and remove all restriction from old file
 
 All Credit for EnriqueMoran
+
+
 Credit Link: https://github.com/EnriqueMoran/remoteDiscordShell
+
+
+
 # remoteDiscordShell
 remoteDiscordShell is a remote shell for Linux that makes use of Discord's conection to send commands and receive their output from the computer.
 This tool is specially useful if you want to connect to a computer that is behind a private network without opening ports or just want to control your computer through Discord, without using any ssh client.
