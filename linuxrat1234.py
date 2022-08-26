@@ -12,9 +12,9 @@ import tempfile
 import time
 
 
-__author__ = "ConCacCut"
+__author__ = "WDchocopie"
 
-__version__ = "v1.2.3.4"
+__version__ = "v1"
 
 
 TOKEN = None
